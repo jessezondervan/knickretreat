@@ -7,7 +7,7 @@ knickage =
 
 #open your csv file with the formatted columns occurding to the readme instructions:
 #remember to have a column with downstream distance (not upstream distance)
-fil = open('C:/Users/jzondervan/Code/knickpoint_retreat.csv')
+fil = open('C:/Users/jzondervan/Longprofs/longprof_Vouraikos.csv')
 
 #channel width to drainage area scaling (optional, default) (dimensionless):
 w2a = 0.001
