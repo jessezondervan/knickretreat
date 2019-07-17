@@ -38,7 +38,7 @@ import numpy as np
 
 Lf = max(Downstream_dist) # m
 Lk = max(Downstream_dist) # m
-Psi = 10*1000*p*w2a # 
+Psi = 10*1*p*w2a # 
 
 endLk = max(Downstream_dist) - knick # m
 
