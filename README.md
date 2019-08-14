@@ -11,3 +11,5 @@ This code is written in Python 2
 
 Output is the position of the knickpoint calculated using your chosen age and erosional efficiency. This is compared against the observed knickpoint. Average modelled retreat rate is also reported.
 Two graphs plot (1) the position of the knickpoint downstream over time; (2) the retreat rate of the knickpoint through time.
+
+[![DOI](https://zenodo.org/badge/149011266.svg)](https://zenodo.org/badge/latestdoi/149011266)
